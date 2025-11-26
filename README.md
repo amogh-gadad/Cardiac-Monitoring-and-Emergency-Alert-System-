@@ -21,7 +21,7 @@ The project's operational sequence follows the process detailed in the flow diag
 
 **
 
-[Image of Flow Diagram.jpg]
+Images/FLow Diagram.png
 **
 
 1.  **Monitoring:** The system continuously calculates the BPM from the AD8232 sensor.
